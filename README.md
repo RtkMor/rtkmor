@@ -16,6 +16,9 @@ I'm a passionate Frontend Developer specializing in building beautiful and funct
   <a href="https://www.linkedin.com/in/ritik-mor-87a716229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://leetcode.com/rtkmor/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
   <a href="https://my-portfolio-nine-iota-29.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
