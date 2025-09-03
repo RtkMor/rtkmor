@@ -4,7 +4,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm [Your Name]</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ritik</h1></summary>
   </ul>
 </div>
 
@@ -13,13 +13,13 @@ I'm a passionate Frontend Developer specializing in building beautiful and funct
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/ritik-mor-87a716229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://your-portfolio-website.com/" target="_blank">
+  <a href="https://my-portfolio-nine-iota-29.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:ritikraja45@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -92,12 +92,12 @@ I'm a passionate Frontend Developer specializing in building beautiful and funct
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rtkmor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtkmor&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rtkmor&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
