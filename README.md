@@ -97,9 +97,5 @@ I'm a passionate Frontend Developer specializing in building beautiful and funct
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rtkmor&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
 </p>
