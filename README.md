@@ -82,13 +82,13 @@ A production restaurant platform, live and in daily use, with three role-based p
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RtkMor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RtkMor&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <a href="https://github.com/RtkMor">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RtkMor&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
-</p>
+> 💡 Most of my production work lives in private company repositories.
+> The projects here reflect my personal builds — see **[Dynamu.AI](https://dynamuai.com/)**, my live restaurant SaaS, for a full React + TypeScript build.
